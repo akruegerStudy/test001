@@ -1,0 +1,17 @@
+{
+    "contents" : "message(\"Hello World\")\n\nprint (\"Hello World\")",
+    "created" : 1403135530668.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "421650172",
+    "id" : "B519F50B",
+    "lastKnownWriteTime" : 1403135566,
+    "path" : "C:/_DATA/Study/github/test001/helloworld.R",
+    "project_path" : "helloworld.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : true,
+    "type" : "r_source"
+}
