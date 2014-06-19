@@ -1,12 +1,12 @@
 {
-    "contents" : "test001\n=======\n\nmy first github repo ever\n\n## heading test2\n\n### heading test3",
+    "contents" : "test001\n=======\n\nmy first github repo ever\n\n## heading test2\n\n### heading test3\n\n* list item 1\n* list item 2\n\n",
     "created" : 1403139146472.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3002477376",
+    "hash" : "3934601344",
     "id" : "674BF93A",
-    "lastKnownWriteTime" : 1403139174,
+    "lastKnownWriteTime" : 1403139336,
     "path" : "C:/_DATA/Study/github/test001/README.md",
     "project_path" : "README.md",
     "properties" : {
