@@ -1,0 +1,16 @@
+{
+    "contents" : "test001\n=======\n\nmy first github repo ever\n\n## heading test2\n\n### heading test3",
+    "created" : 1403139146472.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3002477376",
+    "id" : "674BF93A",
+    "lastKnownWriteTime" : 1403139174,
+    "path" : "C:/_DATA/Study/github/test001/README.md",
+    "project_path" : "README.md",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "markdown"
+}
